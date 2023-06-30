@@ -1,0 +1,101 @@
+body{
+    font-family: 'Lora', serif;
+font-family: 'Poppins', sans-serif;
+}
+#my{
+    margin-top: 150px;
+    margin-left: 200px;
+}
+.my-name{
+    font-size: 30px;
+    color: deeppink;
+}
+.hlaf-position p{
+    color: gray;
+}
+.hlaf-position{
+    width: 40%;
+    float: left;
+    padding-left: 2%;
+    margin-left: 2%;
+}
+.hlaf-position img{
+    width: 100%;
+}
+.first-background{
+    background-image: url(photos/header-bg.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+#header{
+    height: 600px;
+}
+section{
+    height: 500px;
+}
+.button{
+    text-decoration: none;
+    color: white;
+    font-size: 15px;
+    background-color: deeppink;
+    border-radius: 5px;
+    padding: 5px 20px;
+}
+.Biography{
+    background-image: url(photos/biography-bg.png);
+    background-repeat: none;
+    background-size: cover;
+    background-position: center;
+}
+#bio{
+    height: 400px;
+}
+.sundor{
+    margin-top: 80px;
+    margin-left: 0px;
+    text-align: justify;
+}
+.last-work img{
+    width: 30%;
+    float: left;
+    margin-left: 2%;
+}
+.my-lastest-work{
+    font-size: 30px;
+    text-align: center;
+}
+.last-work{
+    background-image: url(photos/latest-work-bg.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.center{
+    text-align: center;
+}
+#ceo{
+    font-size: 15px;
+    color: gray;
+}
+.miraj{
+    color: white;
+    background-color: rgba(255, 20, 145, 0.878);
+    margin-left: 450px;
+    width: 40%;
+    height: 100px;
+    padding-top: 10px;
+    padding-bottom: 25px;
+    border-radius: 7px;
+    font-weight: 400;
+}
+.copy{
+    text-align: center;
+    font-size: 12px;
+}
+.last{
+    background-image: url(photos/footer-bg.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
